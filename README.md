@@ -72,7 +72,7 @@ Using the obtained EAR value the event is triggered whenever the value is below 
 <p align="centre">
 <figure>
   <img src="https://github.com/atharvdix/driver-drowsiness-sys/blob/main/Figures/Event%20Triggers.jpg">
-  <figcaption>Fig.5 - Events are triggered continuosly as long as eyes remain closed</figcaption>
+  <figcaption>Fig.5 - Events are triggered continuously as long as eyes remain closed</figcaption>
 </figure>
 </p>
 
